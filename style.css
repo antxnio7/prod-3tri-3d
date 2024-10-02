@@ -5,3 +5,11 @@ body{background-color:blue;
 .p1 {border-style:outset;
 border-color:aqua;
 border-width:5px; }
+
+.p2{text-align:left;
+}
+
+.p2 {border-style:inset;
+border-color:black;
+
+}
